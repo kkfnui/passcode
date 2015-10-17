@@ -64,7 +64,7 @@ def execute():
 
     result = "<items ><item autocomplete = \"passcode\" uid = \"dddd\" arg = \"{0}\" ><title >{1}</title>".format(
         passcode, passcode)
-    result += "<subtitle >回车复制 passcode</subtitle>"
+    result += "<subtitle >Enter to copy passcode</subtitle>"
     result += "<icon >icon.png</icon>"
     result += "</item>"
     result += "</items>"

@@ -20,5 +20,5 @@ After adding it to your workflow collection, be sure to set the correct params t
 
 ## Usage
 
-Use the shortcut <kbd>⌥+⌘+P</kbd>
+Use the shortcut <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>P</kbd>
 
