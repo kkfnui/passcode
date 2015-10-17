@@ -17,8 +17,10 @@ You can install this workflow by dowloading the [passcode.alfredworkflow](https:
 
 After adding it to your workflow collection, be sure to set the correct params to your email account by double-clicking the `Script Filter` and replacing
  `USER@xunlei.com`, `pop3.xunlei.com`, `PASSWORD` with the actual value of your email account.
+ 
+For more convenient, double-clicking the `Hotkey` and set the shortcut key.
 
 ## Usage
 
-Use the shortcut <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>P</kbd>
+Use the shortcut set before, or type key word `pc` in alfred.
 

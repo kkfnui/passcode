@@ -34,7 +34,7 @@
 	<key>createdby</key>
 	<string>kkfnui</string>
 	<key>description</key>
-	<string>Get Essh PassCode</string>
+	<string>Get dynamic passcode from jump server.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
